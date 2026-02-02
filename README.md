@@ -1,4 +1,4 @@
-##📌 Proje Hakkında
+# SCAN – Kredi Kartı Vol.1
 
 Bu proje, modern tasarım trendlerine uygun olarak hazırlanmış bir kart bilgileri giriş ekranı UI tasarımıdır.
 Amacı; ödeme ekranları, checkout sayfaları veya finansal uygulamalar için kullanıcı dostu bir arayüz örneği sunmaktır.
@@ -9,26 +9,26 @@ Herhangi bir backend, ödeme altyapısı, gerçek kart doğrulaması veya veri s
 
 
 ---
-##🎨 Özellikler
+## ✨ Özellikler
 
--Modern ve minimal tasarım
--Kart önizleme (Visa mockup)
--Kart numarası, kart sahibi, son kullanma tarihi ve CVV alanları
--Responsive yapıya uygun UI
--Demo ve portföy amaçlı kullanım için ideal
+- Modern ve minimal tasarım
+- Kart önizleme (Visa mockup)
+-K art numarası, kart sahibi, son kullanma tarihi ve CVV alanları
+- Responsive yapıya uygun UI
+- Demo ve portföy amaçlı kullanım için ideal
 
-##🧰 Kullanılan Teknolojiler
+## 🧰 Kullanılan Teknolojiler
 
--HTML / CSS
--JavaScript
+- HTML / CSS
+- JavaScript
 
-##-🚀 Kullanım Amacı
+## 🚀 Kullanım Amacı
 
 Bu proje:
 
--UI/UX portföyünde sergilemek
--Frontend pratikleri yapmak
--Ödeme ekranı tasarımı örneği göstermek
+- UI/UX portföyünde sergilemek
+- Frontend pratikleri yapmak
+- Ödeme ekranı tasarımı örneği göstermek
 amacıyla hazırlanmıştır.
 
 Gerçek projelerde kullanmadan önce mutlaka backend entegrasyonu ve güvenlik önlemleri eklenmelidir.
@@ -37,7 +37,7 @@ Gerçek projelerde kullanmadan önce mutlaka backend entegrasyonu ve güvenlik �
 ![Preview](./preview.png)
 
 ---
-##⚠️ Yasal Uyarı
+## ⚠️ Yasal Uyarı
 Bu projede kullanılan kart görselleri ve bilgiler tamamen örnektir.
 Gerçek kart bilgileriyle kullanılmamalıdır.
 
