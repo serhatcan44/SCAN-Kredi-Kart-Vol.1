@@ -9,22 +9,32 @@ Herhangi bir backend, ödeme altyapısı, gerçek kart doğrulaması veya veri s
 
 🎨 Özellikler
 Modern ve minimal tasarım
+
 Kart önizleme (Visa mockup)
+
 Kart numarası, kart sahibi, son kullanma tarihi ve CVV alanları
+
 Responsive yapıya uygun UI
+
 Demo ve portföy amaçlı kullanım için ideal
 
 🧰 Kullanılan Teknolojiler
-(Burayı projene göre düzenle)
+
 HTML / CSS
+
 JavaScript
 
 🚀 Kullanım Amacı
+
 Bu proje:
+
 UI/UX portföyünde sergilemek
+
 Frontend pratikleri yapmak
+
 Ödeme ekranı tasarımı örneği göstermek
 amacıyla hazırlanmıştır.
+
 Gerçek projelerde kullanmadan önce mutlaka backend entegrasyonu ve güvenlik önlemleri eklenmelidir.
 
 
