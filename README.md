@@ -41,6 +41,6 @@ Gerçek projelerde kullanmadan önce mutlaka backend entegrasyonu ve güvenlik �
 Bu projede kullanılan kart görselleri ve bilgiler tamamen örnektir.
 Gerçek kart bilgileriyle kullanılmamalıdır.
 
-##✍️ Geliştirici
+## ✍️ Geliştirici
 Serhat Can
 UI/UX Designer - Oyun & Uygulama Geliştiricisi
